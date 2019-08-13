@@ -4,3 +4,7 @@ Todolist from Colt's tutorial on jQuery. Added a few features of my own like a '
 
 ### Neat things 
 - Actually saves your data so it functions as a to-do list.
+
+### Github Pages
+
+https://dweggyness.github.io/todo-list/
